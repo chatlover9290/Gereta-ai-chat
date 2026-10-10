@@ -1,0 +1,1 @@
+{"name":"gereta-ai-chat","version":"0.1.0","private":true,"type":"module","scripts":{"dev":"node --env-file-if-exists=.env server.js","start":"node --env-file-if-exists=.env server.js","test":"node --test"},"engines":{"node":">=22"}}
